@@ -13,5 +13,6 @@ public class HelloGit {
         System.out.println("在线更新");
         System.out.println("idea update");
         System.out.println("update 7");
+        System.out.println("update from other clone");
     }
 }
