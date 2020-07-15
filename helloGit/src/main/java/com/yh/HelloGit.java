@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("update 3");
         System.out.println("创建分支");
         System.out.println("master test conflict");
+        System.out.println("dev test conflict");
     }
 }
