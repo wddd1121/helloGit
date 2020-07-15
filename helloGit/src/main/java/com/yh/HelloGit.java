@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("dev test conflict");
         System.out.println("在线更新");
         System.out.println("idea update");
+        System.out.println("update 7");
     }
 }
